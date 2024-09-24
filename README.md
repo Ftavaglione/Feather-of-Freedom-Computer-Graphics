@@ -16,4 +16,4 @@ This project aims to create a realistic and immersive scene showcasing the beaut
 - **Bird Flocking Behavior:** A boids simulation algorithm was used to generate lifelike flocking behavior, enhancing the realism of the scene.
 - **Detailed Bird Animation:** Each bird is fully rigged, allowing flight and landing animations.
 
-![Render Preview](images/render_preview.png)
+![Render Preview](render_preview.png)
