@@ -15,3 +15,5 @@ This project aims to create a realistic and immersive scene showcasing the beaut
 - **Terrain Modeling and Texturing:** Real-world geographical data was extracted and used to replicate the Swiss mountains accurately.
 - **Bird Flocking Behavior:** A boids simulation algorithm was used to generate lifelike flocking behavior, enhancing the realism of the scene.
 - **Detailed Bird Animation:** Each bird is fully rigged, allowing flight and landing animations.
+
+![Render Preview](images/render_preview.png)
