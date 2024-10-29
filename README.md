@@ -1,6 +1,7 @@
 # Feather of Freedom
 
-**Feather of Freedom** is a computer graphics project that tells a serene story of a flock of birds navigating the majestic Swiss mountains. One bird, feeling a quiet pull, separates from the group to drink from a tranquil mountain lake, high above the valley.
+**Feather of Freedom** is a computer graphics project that tells a serene story of a flock of birds navigating the majestic Swiss mountains. One bird, feeling a quiet pull, separates from the group to drink from a tranquil mountain lake, high above the valley. The animation can be found here: [Watch the animation video]([[https://esempio.com](https://youtu.be/6cCrAoUh3i8?si=6rLUjmVnmjZmUA9J)
+
 
 ## Project Overview
 
